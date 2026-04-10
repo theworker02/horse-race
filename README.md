@@ -58,7 +58,7 @@ Access the app at `http://localhost:3000`
 
 ## 📱 Available on
 
-- **Web:** [Play Online](https://horse-race.example.com)
+- **Web:** [Play Online](https://horse-race.base44.app/)
 - **GitHub:** [theworker02/horse-race](https://github.com/theworker02/horse-race)
 
 ## 🎯 How to Play
@@ -121,7 +121,7 @@ src/
 
 ## 🔗 Links
 
-- **Project Website:** [horse-race.example.com](https://horse-race.example.com)
+- **Project Website:** [horse-race.base44.app](https://horse-race.base44.app/)
 - **GitHub Repository:** [theworker02/horse-race](https://github.com/theworker02/horse-race)
 - **GitHub Release:** [v1.0.0](https://github.com/theworker02/horse-race/releases/tag/v1.0.0)
 - **Documentation:** [Wiki](https://github.com/theworker02/horse-race/wiki)
